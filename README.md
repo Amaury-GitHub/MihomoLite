@@ -1,7 +1,7 @@
 食用指南
 
 注册链接
-
+https://j03.tbcache.us/waf/5K7YClTtd4l0qUPD2
 登录后打开订阅链接
 https://y.luxury/user/subscription
 
