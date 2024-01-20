@@ -6,7 +6,7 @@
 登录后打开[订阅链接](https://y.luxury/user/subscription)复制你的clash订阅地址<br>
 ## 食用指南<br>
 下载release的压缩包<br>
-
+[release](https://github.com/Amaury-GitHub/MihomoLite/releases/download/release/MihomoLite.7z)<br>
 修改config.yaml文件<br>
  
 使用上面复制的订阅链接替换”clash订阅地址”中间的文字,保留双引号<br>
